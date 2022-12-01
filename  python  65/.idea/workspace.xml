@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="797d340a-e662-44e6-8d9a-7c05c209c1a9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/ python  65.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ various/.idea/ various.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/PycharmProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11blog/.idea/11blog.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arya/.idea/Arya.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aryapay/.idea/Aryapay.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bblogs/.idea/Bblogs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA/circular.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA/def.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA/gui/first.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA/linklist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA/list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA/opp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA/python/add in class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA/python/ide.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA/python/method overloading.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Earyacommerce/.idea/Earyacommerce.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ecommerces/.idea/Ecommerces.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eharrysir/.idea/Eharrysir.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eshop/.idea/Eshop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eshopji/.idea/Eshopji.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MYfirstsite/.idea/MYfirstsite.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maa/.idea/Maa.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maa1/.idea/Maa1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maablog/.idea/Maablog.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maablog/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ramji/.idea/Ramji.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sheetal/.idea/Sheetal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sheetalmaa/maa/templates/proo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shivji/.idea/Shivji.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../advance11.py/.idea/advance11.py.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deemo/.idea/deemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dev/.idea/dev.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dimple/.idea/dimple.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangosonu/.idea/djangosonu.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce/.idea/ecommerce.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce/mac/.idea/mac.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../email/.idea/email.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game mind/.idea/game mind.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../good/.idea/good.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gui practics/.idea/gui practics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../helloji/maa/app1/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hellologin/.idea/hellologin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../implement.py/.idea/implement.py.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../index/.idea/index.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jaipur/mata/app1/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jaipur/mata/static/home/images (7).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jaipur/mata/static/home/site.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jaipur/mata/static/home/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jaipur/mata/static/jas/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jaipur/mata/static/jas/min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jaipur/mata/static/jas/sitt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jaipur/mata/static/som/download (5).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jaipur/mata/static/som/images (6).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jaipur/mata/static/som/images (8).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jaipur/mata/static/som/images (9).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jaipur/mata/static/som/maaji.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jaipur/mata/static/som/sonugi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jaipur/mata/templates/book.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jaipur/mata/templates/regis.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loginsite/.idea/loginsite.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maabloggi/.idea/maabloggi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maabolgsonu/.idea/maabolgsonu.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maagiblog/.idea/maagiblog.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maasontoshi/.idea/maasontoshi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mata/son/appp/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mata/son/templates/ma.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../msql1/.idea/msql1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysql/.idea/mysql.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysqldjango/.idea/mysqldjango.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new loginform.py/.idea/new loginform.py.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newwebsite/.idea/newwebsite.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nic/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nic/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nic/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nic/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nic/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nic/.idea/nic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nic/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nice/.idea/nice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../noc/.idea/noc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nocc/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nocc/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nocc/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nocc/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nocc/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nocc/.idea/nocc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nocc/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nocc/sonu/appa/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ourfirstsever/.idea/ourfirstsever.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pandass/pandas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../payarya/.idea/payarya.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../payment/.idea/payment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paymentgi/.idea/paymentgi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paymentsir/.idea/paymentsir.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pro1/maa/app1/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pro1/maa/templates/b.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1  sonu/.idea/pythonProject1  sonu.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1 soomm/.idea/pythonProject1 soomm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/.idea/pythonProject1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/.idea/pythonProject2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject3/.idea/pythonProject3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject4/.idea/pythonProject4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject5/.idea/pythonProject5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject6/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject6/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject6/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject6/.idea/pythonProject6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject7/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject7/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject7/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject7/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject7/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject7/.idea/pythonProject7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shivaji/.idea/shivaji.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shivaji/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shivaji/shivaa/app/.idea/app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sonugi/.idea/sonugi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sonum.c/.idea/sonum.c.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sonuvishw/.idea/sonuvishw.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textE/.idea/textE.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textE/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textutilize/.idea/textutilize.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../trtrtre.py/.idea/trtrtre.py.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../urlss/.idea/urlss.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weather/weth/main/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weather/weth/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../websonu/.idea/websonu.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2C7HtPN3omBWnpDL0CBkg6ZXN3g" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.2022">
+    <configuration name="2022" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name=" python  65" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\HP\PycharmProjects\pythonProject6\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2022.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CLOCK" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name=" python  65" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\HP\PycharmProjects\pythonProject6\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CLOCK.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.2022" />
+        <item itemvalue="Python.CLOCK" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="797d340a-e662-44e6-8d9a-7c05c209c1a9" name="Changes" comment="" />
+      <created>1658146916328</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658146916328</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

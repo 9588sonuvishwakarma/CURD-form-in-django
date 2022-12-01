@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1> login page open</h1>
+
+
+<form action="login" method="POST">
+    {% csrf_token %}
+
+  <h1>Contact Us</h1>
+  <p>Please take a moment to get in touch, we will get back to you shortly.</p>
+
+  <div class="column">
+    <label for="the-name">Your Name</label>
+    <input type="text" name="name" id="the-name">
+
+      <label for="the-phone">Phone Number</label>
+    <input type="tel" name="phone" id="the-phone">
+
+    <label for="the-email">Email Address</label>
+    <input type="email" name="email" id="the-email">
+
+
+
+
+
+  </div>
+  <div class="column">
+    <label for="the-message">Message</label>
+    <textarea name="messages" id="the-message"></textarea>
+
+    <input type="submit" value="Send Message">
+  </div>
+</form>
+<a href="/"> back</a>
+
+</body>
+</html>
