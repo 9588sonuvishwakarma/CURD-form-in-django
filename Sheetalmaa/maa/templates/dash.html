@@ -1,0 +1,82 @@
+{% extends 'main.html' %}
+
+{%  block content %}
+{%  include 'status.html' %}
+<br>
+<div class="row">
+    <div class="col-md-5">
+
+        <h5>CUSTOMERS:</h5>
+
+        <hr>
+        <div class="card card-body">
+            <a class="btn btn-primary" href="#"> create custmer</a>
+            <table class="table table-5m">
+                <tr>
+
+                    <th>customer detail</th>
+                    <th> customer</th>
+                    <th>phone</th>
+                </tr>
+                 {% for customer in customers %}
+                 <tr>
+                     <td> <a class="btn btn-sm btn-success" href="{% url 'customer' customer.id %}">view</a></td>
+
+                     <td>{{customer.name}} </td>
+                     <td>{{customer.phone}} </td>
+
+                 </tr>
+                {%endfor %}
+<t>6</t>
+            </table>
+        </div>
+    </div>
+
+     <div class="col-md-7">
+        <h5>TOTAL ORDER: {{total_order}}</h5>
+        <hr>
+        <div class="card card-body">
+            <a class="btn btn-primary" href="{% url 'create_order' %}"> create order</a>
+            <table class="table table-5m">
+                <tr>
+
+
+                    <th> customer</th>
+                    <th>order</th>
+                    <th>status</th>
+                    <th>date_created</th>
+                    <th>update</th>
+                    <th>remove</th>
+                </tr>
+                {% for order in order %}
+                 <tr>
+                     <td>{{order.customer}} </td>
+                     <td>{{order.product}} </td>
+                     <td>{{order.status}} </td>
+                     <td>{{order.date_created}} </td>
+                     <td> <a  class="btn btn-sm btn-info" href="{% url 'update_order' order.id %}">Update</a> </td>
+                     <td> <a class="btn btn-sm btn-danger" href="{% url 'delete_order' order.id %}">Remove</a> </td>
+
+
+                 </tr>
+
+                {%endfor %}
+
+            </table>
+        </div>
+    </div>
+</div>
+# rough........................................
+{% for name in names %}
+<p> total name {{total_name}}</p>
+
+<h1> name is {{name.name}}</h1>
+
+{% endfor %}
+{% for  num in fasts %}
+<h4> speed:{{num.speeds}}</h4>
+{% endfor %}
+
+
+
+{% endblock %}

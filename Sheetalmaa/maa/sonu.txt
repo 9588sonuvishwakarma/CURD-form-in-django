@@ -1,0 +1,6 @@
+def updateOrder(request,pk):
+    # form = OrderForm()
+
+    form = OrderForm()
+    context = {'form':form}
+    return render(request, 'order_form.html',context)

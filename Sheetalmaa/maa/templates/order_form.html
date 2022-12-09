@@ -1,0 +1,15 @@
+{% extends 'main.html' %}
+{% load static %}
+{% block content %}
+
+<form action="" method="POST">
+
+    {% csrf_token %}
+    {{form}} # this is come from the def def updateOrder(request,pk):
+
+    <input class="btn btn-sm btn-success" type="submit" name="submit">
+    <h4> only one file is open</h4>
+</form>
+
+
+{% endblock %}
